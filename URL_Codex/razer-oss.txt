@@ -1,0 +1,16 @@
+# A list of Open-source drivers and apps for controlling/interacting with Razer peripherals.
+
+https://openrazer.github.io/ - Linux driver
+https://github.com/openrazer/openrazer - github repo for OpenRazer project
+https://github.com/redaxmedia/chroma-feedback - gives color feedback for various CI runners
+https://support.razer.com/razer-central-open-source-software-notices - Open Source license notification page for Razer
+https://github.com/razerofficial - Razer official github repos
+https://github.com/chroma-sdk - Community ChromaSDK github repo
+https://github.com/polychromatic/polychromatic - Python-based GTK UI for changing Chroma settings, uses OpenRazer
+https://github.com/GabMus/razerCommander -- Gnome UI for managing Chroma settings, uses OpenRazer
+https://github.com/felixrieseberg/razer-chroma - Node.js wrapper for Chroma SDK, currently supports only keyboards
+https://github.com/CalcProgrammer1/KeyboardVisualizer - spectrograph visualizer for Windows and Linux
+https://github.com/cyanogen/uchroma - Python-based dbus service and cli for changing Chroma settings, Linux only
+https://github.com/antonpup/Aurora - Settings manager and driver providing hooks for many games and support for multiple RGB products. Windows.
+https://www2.razer.com/chroma-workshop/apps - Razer-promoted Chroma apps.
+https://github.com/chroma-sdk/awesome-chroma - an Awesome list of Chroma-related resources.

@@ -1,0 +1,2 @@
+https://github.com/dechamps/WinIPBroadcast - allows Win 7 and Win 10 to broadcast over multiple NICs like every other OS
+https://r1ch.net/projects/forcebindip - forces an application or service on Win 10 to bind to a specific interface

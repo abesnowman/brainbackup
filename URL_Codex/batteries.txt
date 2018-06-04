@@ -1,0 +1,7 @@
+# Batteries and electricity storage/management
+
+https://www.imrbatteries.com/samsung-35e-18650-3500mah-10a-flat-top-battery/ - $6 each with bulk discounts, best price as of 2018MAY12
+https://www.fasttech.com/products/0/10002357/5641200-authentic-samsung-inr18650-35e-3-6v-3500mah - $23/4 = $5.83 ish 2018MAY12
+http://www.diybatteries.com/category/instructions/ - making battery packs from 18650 cells
+https://hackaday.io/project/21144-a-lithium-ion-battery-management-system - open source charge controllers
+https://hackaday.io/project/12296/logs - "Powerbucket" battery for solar power balancing

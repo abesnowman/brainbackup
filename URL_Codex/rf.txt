@@ -1,0 +1,20 @@
+https://www.evilsocket.net/2016/03/31/how-to-build-your-own-rogue-gsm-bts-for-fun-and-profit/
+https://github.com/BogdanDIA/airprobe-hopping
+https://github.com/mossmann?tab=repositories
+http://www.delaat.net/rp/2015-2016/p86/report.pdf
+http://openbts.org/hardware/ - Open source GSM base station
+https://wiki.yatebts.com/index.php/Main_Page
+https://github.com/seemoo-lab/nexmon - driver for Broadcom and Cypress rf chipsets that enables out-of-spec operations
+https://github.com/cclabsInc/RFCrack - using Yardstick one for scan and crack automation
+https://github.com/atlas0fd00m/rfcat
+https://store.qorvo.com/ProductDetail/TGA2216-Qorvo/472971/ - amplifier
+https://github.com/rxseger?direction=desc&language=c%2B%2B&page=2&sort=updated&tab=stars - decoders
+https://github.com/ha7ilm/qtcsdr - turns pi into rf tx
+https://github.com/mutability/dump1090 - ADS-B rx
+https://github.com/cn0xroot/RFSec-ToolKit
+https://github.com/xmikos/qspectrumanalyzer - SoapySDR-based spectrum analyzer
+https://osmocom.org/projects/osmo-fl2k/wiki - using USB -> VGA F2000-based adapter for VHF/UHF TX 
+https://www.elttam.com.au/blog/intro-sdr-and-rf-analysis/ - Intro to SDR and RF Signal analysis
+https://github.com/exploitagency?tab=repositories - Exploit Agency repo - many RF hardware and software tools
+https://github.com/jmendeth/jackpifm - turns a pi3 into an FM microtransmitter
+https://github.com/2b-as/xgoldmon - cellular baseband packet sniffing tee

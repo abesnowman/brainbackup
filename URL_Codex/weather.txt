@@ -1,0 +1,9 @@
+http://www.spc.noaa.gov/exper/mesoanalysis/new/viewsector.php?sector=15&parm=rgnlrad - Current NWS model for Southern Plains region (TX)
+https://nwschat.weather.gov/create.php - National Weather Service Chat
+http://www.nws.noaa.gov/emwin/EMWIN_Image_and_Text_Data_Capture_Catalog_v1.0_r170301-1500a.pdf - API URLs for graphics products from NWS
+https://github.com/Unidata/gempak - the meteorology tools the pros use
+http://www.nws.noaa.gov/emwin/winven.htm - EMWIN vendors
+http://www.nws.noaa.gov/nwws/news.html#Issues - NWS Weather Wire Service info (requested OI username on May 4, 2018)
+http://weather.cod.edu/forecast/ - College of DuPage Weather Lab
+https://weather.im/iembot/ - NWS alerts via chat bot
+

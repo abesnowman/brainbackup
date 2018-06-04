@@ -1,0 +1,5 @@
+# This is specifically for projects/tools/blogs/etc that use a SOFTWARE-DEFINED RADIO.  Almost certainly will have overlap with the
+# hamradio and pentesting lists.
+
+https://github.com/robotastic/trunk-recorder - Record/listen to trunked systems, like P25.  Only supports OmsoSDR and Ettus driver at this time.
+

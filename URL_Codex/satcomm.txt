@@ -1,0 +1,2 @@
+https://github.com/dbdexter-dev/meteor_demod
+https://github.com/cbassa/strf - identifies satellites by freq and doppler shift of recieved transmissions

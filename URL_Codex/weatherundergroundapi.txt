@@ -1,0 +1,16 @@
+# The Death of the free Weather Underground API
+
+This is a list of URLs that are instructing users/readers to use the WU API, which, as of May 15, stopped issuing free API keys.
+For now, I am notifying sites via comments that the service is no longer providing free API keys using this boilerplate:
+--------------------------
+You may wish to update this content - IBM has discontinued issuing free API keys for the Weather Underground API as of around May 15, 2018, and may discontinue the free API service at any time.
+
+https://apicommunity.wunderground.com/weatherapi/topics/weather-underground-api-changes
+--------------------------
+It might be useful to have a compatible API on a similar domain to return fake data, if access to current data is not available.
+
+### URLs of sites pointing to the WU API
+
+http://www.pythonforbeginners.com/scraping/scraping-wunderground - notified 2018MAY22
+https://www.programmableweb.com/news/how-to-tap-weather-undergrounds-plethora-data-api/how-to/2015/09/10 - notified 2018MAY22
+https://github.com/initialstate/wunderground-sensehat - notified 2018MAY22

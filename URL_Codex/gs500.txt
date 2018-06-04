@@ -1,0 +1,4 @@
+https://joshkarnes.blogspot.com/2017/09/fixing-common-gs500-carburetor-issues.html - return carburetor system to factory walkthrough
+https://hackaday.io/project/4349-electric-ninja - conversion to electric
+https://www.colorado.edu/physics/EducationIssues/podolefsky/electric_motorcycle_howto_battery.html - GSX conversion to electric
+http://www.evdrives.com/Default.asp - motors and controllers

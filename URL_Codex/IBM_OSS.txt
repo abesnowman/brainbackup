@@ -1,0 +1,8 @@
+# This is not proprietary; all of these links are open to the public.  This is just a list of IBM OSS projects that interest me for various
+# reasons; nothing should be inferred nor is anything implied by any particular project's inclusion or exclusion from this list.
+
+https://ibm.github.io/ - IBM public github index
+https://developer.ibm.com/code/howtos/weather-insight-with-watson - Integrate weather data into Watson Assistant
+https://developer.ibm.com/code/howtos/ml-in-minutes - Deploy a simple Machine Learning model (workforce attrition prediction) with no code "in minutes".
+https://developer.ibm.com/code/open/projects/watson-on-node-red/ - Integrating Watson Assistant and NodeRED IoT framework
+https://github.com/project-humix/humix-think - Humix is a bridging framework to facilitate Bluemix/human/sensor integration.

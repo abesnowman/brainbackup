@@ -1,0 +1,2 @@
+http://www.snapraid.it/manual
+https://ceph.com/ - Ceph is a scalable distributed storage cluster that exposes storage as objects, blocks, and filesystems.
