@@ -8,3 +8,4 @@ https://helm.sh/ - Kubernetes package management
 http://olegh.ftp.sh/public-stun.txt - autoupdated list of public STUN servers to test NAT restrictions
 https://www.ibm.com/support/home/links/97/product/5112194/xSeries_345_8670-31X?results=13 - documentation for the 2U sitting by my desk at home.
 https://github.com/mistio/mist-ce/releases/tag/v3.0.0 - monitor multiple public cloud deployments from a common dashboard
+https://gitea.io/en-US/ - self-hosted Git with web interface.  Similar in appearance to github.
