@@ -8,3 +8,7 @@ https://www.ebay.com/itm/33L5040-2GB-PC2100-IBM-xSeries-235-335-345-365-450-455-
 
 https://github.com/danistefanovic/build-your-own-x
 https://github.com/apprenticeharper/DeDRM_tools - e-book DRM removal
+
+https://github.com/Rhodesia/mercynet.py - scrapes boorus (imageboards with tagging support)
+https://github.com/pomf/pomf - file sharing web engine, upload and done
+https://0xacab.org/c/droodbin - fork of doxbin, a site for collecting and sharing PII.
