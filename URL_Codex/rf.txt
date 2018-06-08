@@ -18,3 +18,7 @@ https://www.elttam.com.au/blog/intro-sdr-and-rf-analysis/ - Intro to SDR and RF 
 https://github.com/exploitagency?tab=repositories - Exploit Agency repo - many RF hardware and software tools
 https://github.com/jmendeth/jackpifm - turns a pi3 into an FM microtransmitter
 https://github.com/2b-as/xgoldmon - cellular baseband packet sniffing tee
+https://rftap.github.io/
+https://www.sv1afn.com/
+https://www.reddit.com/r/amateurradio/comments/52ks77/dra818v_transceivers_any_experience/
+
