@@ -7,3 +7,4 @@ http://radiostud.io/build-iot-enabled-smart-bin-ibm-bluemix/
 https://github.com/0xpat/scripts/blob/master/applescript/DND.scpt - script for use with Do Not Disturb, a lid-opening detection app
 https://mycroft.ai/ - OSS limited AI in Python, replaces Alexa with Watson
 https://www.indiegogo.com/projects/atari-vcs-game-stream-connect-like-never-before-computers-pc#/ - Atari game console / home assistant node.  Open source, hackability potential high.
+https://openenergymonitor.org/ - monitor your energy use
