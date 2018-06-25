@@ -3,6 +3,8 @@
 https://hackaday.io/project/6173-open-source-kinect-stand-alone-3d-scanner - Use an old Kinect as a 3d-scanner.
 https://pcpartpicker.com/list/ - put together a PC build and order the parts from the cheapest vendor automatically
 https://hackaday.io/project/12989-thor/details - open source and partially 3d-printed 6-axis robotic arm
+https://www.tindie.com/ - Etsy for makers.
+https://www.crowdsupply.com/ - crowdsourcing funding for hardware projects
 
 https://www.ebay.com/itm/33L5040-2GB-PC2100-IBM-xSeries-235-335-345-365-450-455-HS20-Z-Pro-Memory-RAM/122026685208?hash=item1c695b7318:g:d3sAAOxyY3ZR0O-E - ebay seller for cheap RAM for IBM xSeries 345
 
