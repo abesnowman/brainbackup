@@ -9,3 +9,4 @@ https://mycroft.ai/ - OSS limited AI in Python, replaces Alexa with Watson
 https://www.indiegogo.com/projects/atari-vcs-game-stream-connect-like-never-before-computers-pc#/ - Atari game console / home assistant node.  Open source, hackability potential high.
 https://openenergymonitor.org/ - monitor your energy use
 https://www.amazon.com/CTYRZCH-SCT-013-000-Non-invasive-Current-Transformer/dp/B01C5JL5IY/ref=sr_1_2?ie=UTF8&qid=1529970672&sr=8-2&keywords=ct+sensor&dpID=41phdbj-q3L&preST=_SX342_QL70_&dpSrc=srch - volt/amp sensor for energy monitor
+https://maniacbug.wordpress.com/2012/03/30/rf24network/ - home sensor net

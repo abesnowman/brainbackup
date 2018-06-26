@@ -11,3 +11,4 @@ https://github.com/mistio/mist-ce/releases/tag/v3.0.0 - monitor multiple public 
 https://gitea.io/en-US/ - self-hosted Git with web interface.  Similar in appearance to github.
 https://github.com/apache/incubator-openwhisk - OpenWhisk.  runs node.js
 https://github.com/IBM/OpenWhisk-on-Kubernetes - IBM's implemetation of OpenWhisk on Kubernetes
+https://storj.io/share.html - Storj: rent out spare hard drive space, get paid.
