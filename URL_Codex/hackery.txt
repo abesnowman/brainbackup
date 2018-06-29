@@ -14,3 +14,8 @@ https://github.com/apprenticeharper/DeDRM_tools - e-book DRM removal
 https://github.com/Rhodesia/mercynet.py - scrapes boorus (imageboards with tagging support)
 https://github.com/pomf/pomf - file sharing web engine, upload and done
 https://0xacab.org/c/droodbin - fork of doxbin, a site for collecting and sharing PII.
+http://vysor.io/ - mirrors an Android device screen on a Windows or Mac pc with a Chrome add-on.
+https://github.com/koush/electron-chrome - repackages a Chrome app as an Electron app.
+https://github.com/ajhsu/chromecast-device-emulator - ChromeCast emulator
+https://github.com/HaarigerHarald/android-youtubeExtractor - Android youtube download and extraction library with demo app
+
