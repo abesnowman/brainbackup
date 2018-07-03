@@ -19,3 +19,4 @@ https://github.com/koush/electron-chrome - repackages a Chrome app as an Electro
 https://github.com/ajhsu/chromecast-device-emulator - ChromeCast emulator
 https://github.com/HaarigerHarald/android-youtubeExtractor - Android youtube download and extraction library with demo app
 
+https://archive.org/details/pocorgtfo13 - PoC or GTFO 13 - using a wacom tablet as an RFID reader
