@@ -1,0 +1,204 @@
+Useful Queries
+Email (exim)
+
+Change the time frame to when the email was received and run this query to see the penetration of emails with that specific subject
+
+sourcetype=exim_main T="Subject"
+
+You can pivot from there by dropping down on the results by clicking the '>' and seeing other fields that Splunk logged like the exim_sender:
+
+sourcetype=exim_main exim_sender="Email Address"
+
+Another useful way to start from then pivot to gain more information is starting with the employee that received the email. Then you can see other related fields by clicking the '>'.
+
+sourcetype=exim_main exim_rcpt="Employee Email Address"
+
+VPN
+
+This will give you the start and end of VPN Sessions
+
+source=/var/log/devices/firewalls.log $User %asa session
+
+History
+
+If you want to look at a List of previous queries that you used
+
+... | history 
+
+Account Management Events
+
+New Accounts:
+
+source="WinEventLog:Security" EventCode="4720"
+
+Accounts Changed
+
+source="WinEventLog:Security" EventCode="4738" 
+
+Accounts Disabled
+
+source="WinEventLog:Security" EventCode="4725" 
+
+Additional arguments:
+
+    Reference specific Employee:
+
+source="WinEventLog:Security" EventCode="4725" jdoe
+
+    Specify time periods:
+
+source="WinEventLog:Security" EventCode="4725" earliest= mm/dd/yyyy:h:m:s latest=mm/dd/yyyy:h:m:s
+
+Stats
+
+Stats is a cheap way at condensing much of the queries based on one element.(Requires "|", after the initial query)
+
+The following query will create a statistic on the number of times a specified file is accessed.
+
+... | stats count by file
+
+This query will append the Ip address of the client along with the file that they accessed and with the count.
+
+... | stats count by file, clientip
+
+Table
+
+Table is a way at creating a data table with only specified elements from the traffic. (Requires "|", after the initial query)
+
+... | table clientip, file, host
+
+Timechart
+
+This chart will create a graphic similar to stats but the x-axis will be based on time instead of a specified listing type.(Requires "|", after the initial query)
+
+This query will create a timechart with each increment by one hour and show how many occurrences of clientip shows up.
+
+... | timechart span=1h count by clientip
+
+Top
+
+Top will only keep the highest occurrences based on the limit you give it.
+
+This query will only keep the top 20 occurrences based on clientip
+
+... | top limit=20 clientip
+
+Rex/Regex
+
+Regex allows you to cut up any specified field data based on the regular expression that you give.
+
+If you don't know regular expressions here's a link to a tutorial. http://regexone.com/
+
+The following query will loop for the string "User:", that is within the _raw field, and then capture all the data that precedes afterwards and then end on a ",". Then saves the data to a new field called "user".
+
+... | rex field=_raw "User: (?<user> .*),"
+
+This new "user" field can then be used in other queries.
+
+... | rex field=_raw "User: (?<user> .*)," | stats count by user
+
+Cluster
+
+Cluster will try and find common or rare events in the data. So anomalies compared to the bulk of data.
+
+This query will create a cluster and a table for the cluster, and then sort the data (t is the threshold where the default is 0.8)
+
+... | cluster showcount=t | table cluster_count = _raw | sort-cluster_count
+
+Analyze Fields
+
+For Numeric Fields only. Will return values to show whether they are predictable or not.
+
+... | analyzefields classfield=clientip
+
+Diff/Difference
+
+Will compare two packets and return the resulting difference.
+
+This example will take packet 1 and packet 2 and compare the differences based on the attribute given which is the raw data.
+
+... | diff pos1=1 pos2=2 attribute=_raw
+
+Abstract
+
+Shortens the text of results based on the number of lines given
+
+This example will shorten the summaries down to 2 lines
+
+abstract maxlines=2
+
+AnomalousValues
+
+Will only return extremely rare events.
+
+... | anomalousvalues
+
+Append
+
+Will combine two separate searches together
+
+... | append [<new search query>] 
+
+Chart
+
+Will create a chart under the visualization tab.
+
+The below example will create a new chart using clientip, files, and date_hour
+
+... | chart count over clientip by file usenull=f useother=f
+
+Correlate
+
+Will try to correlate data , best results when number of columns is low
+
+... | correlate
+
+Best used with a pre-made table
+
+... | table clientip, file | correlate
+
+Delta
+
+Will generate a difference similar to diff, but will only check differences in columns
+
+This example will take clientip and the count of how many times it appears, and then calculate in a new columns the difference in the count
+
+... | top clientip | delta count p=1
+
+Highlight
+
+Will extract and highlight any found occurrences of a string.
+
+This example will try to find any occurrences of "POST"
+
+... | highlight "POST"
+
+Rare
+
+Will try and extract uncommon rows based on the given column type and return the number of times it showed up.
+
+This example will try and find rare occurrences based on file
+
+... | rare file
+
+This example will combine file with clientip
+
+... | rare file by clientip
+
+Iplocation
+
+Iplocation helps to analyze data when the geographic location of IPs is relevant. The command utilizes third-party sources to extract geo information for IP addresses. Populated fields include city, continent, country, region, timezone, and latitude/longitude.
+
+To extract IP locations corresponding to the clientip field:
+
+... | iplocation clientip
+
+To display populated City and Country fields:
+
+... | iplocation clientip | table clientip, city, country
+
+Public attempts to get autodiscover from exchance
+
+Looking up attempts to access autodiscover from the exchange server shows us how many public connections are trying to hit inbound. This may include employee usernames in an attempt to gain access.
+
+sourcetype=access_combined_wcookie AND uri="/autodiscover/autodiscover.xml" | dedup clientip |table clientip uri_path uri_query method referer ims_int_portal_login _time req_time
