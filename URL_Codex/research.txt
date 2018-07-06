@@ -1,0 +1,5 @@
+https://www.zotero.org/download/ - free app + plugins to save and organize research
+http://voyant-tools.org/ - visualize documents and datasets
+http://shortdoi.org/ - URL shortener for DOI
+https://github.com/plandes/zotsite - export Zotero library to a standalone website
+
