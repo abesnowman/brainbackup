@@ -13,3 +13,4 @@ https://github.com/apache/incubator-openwhisk - OpenWhisk.  runs node.js
 https://github.com/IBM/OpenWhisk-on-Kubernetes - IBM's implemetation of OpenWhisk on Kubernetes
 https://storj.io/share.html - Storj: rent out spare hard drive space, get paid.
 https://github.com/webrecorder/webrecorder - website archiving service
+https://blog.alexellis.io/introducing-openfaas-cloud/ - kubernetes integration with git
