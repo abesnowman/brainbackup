@@ -1,0 +1,45 @@
+This is as close to a legal document as I intend for us to get, in terms of internal documents - Governments and Corporations may require some legal framework to exist for us to exist or utilize their services, and we will comply with the bare minimums expected of us in order to exchange information, gain access to entitlements, and engage in business with those entities.
+
+In order to gain access to the vxLAN, all members are required to read this agreement, acknowledge it in its current form, and agree to abide by the stipulations set forth.
+
+I hereby AGREE:
+
+I am willfully, voluntarily, without reservation, and without having been coerced, joining a Society to mutually advance these goals, to be known as the Society of Minerva:
+
+1) The acquisition, archival, and dissemination of knowledge for both personal enrichment and the betterment of humanity;
+2) The enhancement of personal privacy through known methods and infrastructure we as a group control;
+3) The education of the greater populace through providing affordable services and curriculum for both individual and guided study;
+4) The ability to retain and expand freedom of movement, freedom of thought, freedom of memory, and freedom of initiative through mutual responsibility to, and thereby mutual possession of, an institution of scientific purpose.
+
+In order to be a constructive and productive member of that Society, I also hereby AGREE that I will refrain from the following, to the sheer limits of my ability:
+
+1) To bring harm, be it physical or virtual, emotional or mental, to any member of the society, through action or inaction;
+2) To restrict the access to any resource of the society to any member of the society, as all members are entitled to access any resource in which the society has a controlling interest;
+3) To violate the privacy of any member of the society, whether verbal, digital, through correspondence, or by directly attempting to discern secrets;
+4) Or to expose the society to legal or financial liabilities through intentional malfeasance or carelessness of action, including agreeing to contracts or other commitments on behalf of the Society without having been granted the explicit authority to do so by a quorum of the membership of the Society as a whole, as agreed upon and recorded in the Archive of the Society.
+
+Finally, in order for the Society to function as a self-regulating body and still be able to provide freedom to all members, I also hereby AGREE:
+
+1) To report violations of this agreement publicly to all members of the Society through provided encrypted communications channels;
+2) To participate freely and willingly in any investigation pertaining to the security and safety of all Society interests, physical or digital;
+3) To engage other members in discussion for clarification and guidance if the position of the Society is not transparent or if my role or purpose in the Society conflicts with an external obligation, or is a violation of my personal moral or ethical code;
+4) To be available for other members of the Society to question when it does not conflict with other obligations;
+5) and to participate in the democratic process as it pertains to the minimal governance of the society, as necessary, by requesting a Society Conference when there is a conflict between the evidenced actions of a member and this agreement, by voting digitally when a Society Vote is requested, and by respectfully honoring the wishes of the Society when a Society Vote has been counted and recorded in the Archives of the Society.
+
+I understand and AGREE that in this document and in others pertaining to the governance of the Society, the following definitions apply:
+
+The Society is defined as the collective number of people who have signified acceptance of this Agreement and who have not been removed from the Society by a unanimous Society Vote as recorded in the Archives of the Society;
+A Society Conference is defined as a 72-hour period where all members of the Society may discuss the topic brought to the floor through whatever means they choose, whether in person or remote, the proceedings of which to be governed by the Fourth Edition of Robert's Rules of Order, Revised, as available on http://www.rulesonline.com/ and recorded in its entirety, cryptographically signed, and stored in the Archives of the Society, and a transcript of which is also produced, cryptographically signed, and stored in the Archives of the Society;
+A Society Vote is defined as a 24-hour period when all members are requested to register a vote of assent, dissent, or null, with a policy or conclusion defined or drawn by a Society Conference, in a cryptographically secure manner, through verification of credentials, and securely and anonymously, by way of automation to prevent human error or observation;
+The Archives of the Society are defined as a record of all determinations, conclusions, statements issued, and any other particular item of interest as determined by a Society Conference, as well as any contract, commitment, award, financial document, legal document, or the outcome of any and all Society Votes, stored in an immutable record that is to be cryptographically signed and copied to multiple geographic and digital locations so as to be resilient and resistant to alteration or loss through an automated process to prevent damage or destruction by human error, such as a Hyperledger-backed read-only storage repository, and available to all members to view at any time without restriction.
+A Quorum is defined as a number of the membership greater than half of the total number of members in the Society at the time.
+
+Lastly, I AGREE that this Agreement is not immutable and may be changed by the Society by way of a Society Conference, but only if the results of the requisite Society Vote are unanimously in agreement, at which time all members will be requested to review, acknowledge, and agree to the resulting document, and also my understanding and acknowledgement that any member of the Society can rescind their agreement to these terms and leave the Society at any time without consequence.
+
+I indicate that I have read this agreement and understand both my own and the Society's obligations, commitments, and expectations by typing my name in the comments below.
+
+I indicate that I accept the agreement as it stands and do not have a moral or ethical conflict with the agreement, or some prevailing commitment that would prevent me from fully accepting the agreement without disclosing that fact, by typing a comma and the words "I agree." after my name in the same comment below.
+
+I indicate that I am willingly joining my comrades in the Society with the intention of recording and furthering human knowledge, protecting the privacy and self-agency of others, and working toward expanding the freedoms of all people, by typing the words "Scientia Privata Omnium Libertas" in the comment below.
+
+By submitting my comment, I am submitting my acceptance of this agreement, and into the Society of Minerva.
