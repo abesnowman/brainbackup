@@ -10,3 +10,18 @@ https://www.indiegogo.com/projects/atari-vcs-game-stream-connect-like-never-befo
 https://openenergymonitor.org/ - monitor your energy use
 https://www.amazon.com/CTYRZCH-SCT-013-000-Non-invasive-Current-Transformer/dp/B01C5JL5IY/ref=sr_1_2?ie=UTF8&qid=1529970672&sr=8-2&keywords=ct+sensor&dpID=41phdbj-q3L&preST=_SX342_QL70_&dpSrc=srch - volt/amp sensor for energy monitor
 https://maniacbug.wordpress.com/2012/03/30/rf24network/ - home sensor net
+https://hackaday.com/?s=speech+recognition&mc_cid=88e3b97919&mc_eid=ac1d2535b9 - speech recog on Hackaday
+
+http://arjo129.github.io/uSpeech/ - speech recognition on Arduino using pin input analysis instead of FFT
+
+http://blog.mikeasoft.com/2017/12/30/speech-recognition-mozillas-deepspeech-gstreamer-and-ibus/ - Linux speech to text processing using DeepSpeech
+https://cmusphinx.github.io/ - Open source speech recognition engine
+http://changingjasper.blogspot.com/2014/06/making-jasper-use-at-speech-api.html - How to tell Jasper to use ATT Speech (which is Watson proxied)
+http://jasperproject.github.io/documentation/ - Jasper - an Open Source digital assistant, similar to Alexa.
+http://julius.osdn.jp/en_index.php - Julius speech-to-text engine, offline, significant training needed
+https://github.com/julius-speech/julius - official repo for Julius as of 09/2015
+http://www.voxforge.org/ - open source acoustic models for speech-to-text engines
+
+https://www.seeedstudio.com/ReSpeaker-2-Mics-Pi-HAT-p-2874.html - microphone arrays for Rasp Pi
+https://brainsteam.co.uk/2015/11/28/watson-home-automation/ - using Watson as Jasper's STT engine
+

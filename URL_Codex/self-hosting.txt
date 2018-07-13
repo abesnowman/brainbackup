@@ -14,3 +14,26 @@ https://github.com/IBM/OpenWhisk-on-Kubernetes - IBM's implemetation of OpenWhis
 https://storj.io/share.html - Storj: rent out spare hard drive space, get paid.
 https://github.com/webrecorder/webrecorder - website archiving service
 https://blog.alexellis.io/introducing-openfaas-cloud/ - kubernetes integration with git
+https://mailinabox.email/
+https://www.tahoe-lafs.org/trac/tahoe-lafs
+https://gnunet.org/
+https://dnscrypt.info/
+https://www.enigmail.net/index.php/en/
+https://www.openpgp.org/software/
+https://www.nitrokey.com/
+https://krypt.co/
+https://mailu.io/
+https://storj.io/
+https://about.riot.im/
+https://github.com/mailpile/Mailpile
+https://github.com/pixelated
+http://git-secret.io/
+https://github.com/signalapp/libsignal-protocol-c
+https://github.com/mmgarland3/pond
+https://github.com/tutao/tutanota
+https://matrix.org/docs/projects/try-matrix-now.html
+https://github.com/kamax-io/mxisd
+https://github.com/14mRh4X0r/matrix-synapse-pam
+https://github.com/turt2live/terraform-provider-matrix
+https://www.iredmail.org/
+

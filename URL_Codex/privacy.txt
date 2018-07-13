@@ -1,1 +1,5 @@
-https://matrix.org/blog/home/
+https://matrix.org/blog/home/ - Matrix encrypted messaging server
+https://robots.thoughtbot.com/pgp-and-you - HowTo use PGP
+
+https://github.com/spwhitton/git-remote-gcrypt - full encryption of git repos
+
