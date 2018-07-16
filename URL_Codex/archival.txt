@@ -2,3 +2,4 @@ https://pywb.readthedocs.io/en/latest/manual/configuring.html#https-proxy - usin
 https://archivesunleashed.org/warclight/ - front end for displaying metadata and indexing WARC archives.
 
 https://github.com/spwhitton/oso2pdf - converts Oxford Scholarship Online books to PDF.
+https://github.com/x-hgg-x/video_decrypter - Widevine decryption project, very alpha
