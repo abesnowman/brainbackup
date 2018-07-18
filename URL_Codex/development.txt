@@ -1,0 +1,4 @@
+https://cycling74.com/products/max - Max, visual language for manipulating graphics and audio
+http://www.iamas.ac.jp/~aka/max/ - addons for Max
+http://puredata.info/ - Pure Data, or pd
+
