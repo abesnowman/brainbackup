@@ -2,4 +2,7 @@ https://matrix.org/blog/home/ - Matrix encrypted messaging server
 https://robots.thoughtbot.com/pgp-and-you - HowTo use PGP
 
 https://github.com/spwhitton/git-remote-gcrypt - full encryption of git repos
+https://www.whonix.org/wiki/Main_Page - privacy-focused debain-based Linux desktop VM
+http://iamcicada.com/cicada-deep-dive/ - blockchain-based cryptocurrency ecosystem enabling anonymity and basic income for all participants
 
+https://github.com/M66B/NetGuard - Android no-root application-level firewall using loopback VPN

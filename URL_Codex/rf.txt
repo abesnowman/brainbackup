@@ -20,6 +20,8 @@ https://github.com/jmendeth/jackpifm - turns a pi3 into an FM microtransmitter
 https://github.com/2b-as/xgoldmon - cellular baseband packet sniffing tee
 https://rftap.github.io/
 https://www.sv1afn.com/
+https://github.com/fulldecent/system-bus-radio - use the system bus on a PC as an AM transmitter.
+
 https://www.reddit.com/r/amateurradio/comments/52ks77/dra818v_transceivers_any_experience/
 
 http://www.pe1opm.nl/dares/dload/popovic%20antenne.pdf - DARES or Popovic antenna build, 2m/70cm
