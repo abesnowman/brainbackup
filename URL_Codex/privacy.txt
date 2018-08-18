@@ -3,3 +3,4 @@ https://robots.thoughtbot.com/pgp-and-you - HowTo use PGP
 
 https://github.com/spwhitton/git-remote-gcrypt - full encryption of git repos
 
+https://github.com/M66B/NetGuard - android no-root firewall (github release supports HOSTS edits), uses pseudo-VPN.

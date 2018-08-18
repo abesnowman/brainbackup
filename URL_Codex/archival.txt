@@ -12,3 +12,4 @@ https://catalog.gpo.gov/F - Catalog of Government Publications
 
 https://www.treasury.gov/FOIA/Pages/reading_room.aspx - Dept of the Treasury FOIA reading room
 
+https://rclone.org/ - backup web stuff to filesystem and back

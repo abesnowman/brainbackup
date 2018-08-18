@@ -20,3 +20,11 @@ https://github.com/ajhsu/chromecast-device-emulator - ChromeCast emulator
 https://github.com/HaarigerHarald/android-youtubeExtractor - Android youtube download and extraction library with demo app
 
 https://archive.org/details/pocorgtfo13 - PoC or GTFO 13 - using a wacom tablet as an RFID reader
+
+https://github.com/ReservedField/evic-sdk - evic firmware SDK
+https://nfeteam.org/ - alternative evic firmware
+
+https://pcmhacking.net/forums/index.php - car ECU hacking
+https://www.tactrix.com/index.php?option=com_virtuemart&page=shop.product_details&flypage=flypage.tpl&product_id=17&Itemid=53&redirected=1&Itemid=53 - OSS ODBII connector for flashing
+http://www.openecu.org/index.php?title=EcuFlash - EcuFlash is open-source software for reading and writing to car ECU's 
+https://github.com/jeremyhahn/ecutools - more open source car hacking stuff

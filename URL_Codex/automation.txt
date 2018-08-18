@@ -25,3 +25,5 @@ http://www.voxforge.org/ - open source acoustic models for speech-to-text engine
 https://www.seeedstudio.com/ReSpeaker-2-Mics-Pi-HAT-p-2874.html - microphone arrays for Rasp Pi
 https://brainsteam.co.uk/2015/11/28/watson-home-automation/ - using Watson as Jasper's STT engine
 
+https://github.com/kovidgoyal/mechanize - automate interaction with HTTP services
+https://github.com/kovidgoyal/html5-parser - fast python-based HTML5 parser

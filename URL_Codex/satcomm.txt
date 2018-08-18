@@ -1,2 +1,3 @@
 https://github.com/dbdexter-dev/meteor_demod
 https://github.com/cbassa/strf - identifies satellites by freq and doppler shift of recieved transmissions
+http://uzzors2k.4hv.org/index.php?page=weatherSatellites - tunable 137MHz bandpass filter design
