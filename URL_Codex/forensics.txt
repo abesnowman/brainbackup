@@ -1,1 +1,10 @@
 https://drive.google.com/file/d/1y7cGj1WduyR7WGY0e_061aCJcWUV2Dtw/view - Paladin Linux download link
+https://github.com/ForensicArtifacts/artifacts - digital artifact repo
+https://github.com/google/grr - google rapid response
+https://www.sciencedirect.com/science/article/pii/S1742287613000480 - GRR on Android paper
+https://www.forensicswiki.org/wiki/Category:GPL - GPL forensic tools
+https://bitcurator.net/bitcurator/ - Linux-based forensics liveCD
+https://github.com/volatilityfoundation - memory forensics framework
+https://github.com/pibara/mfmf - python-based file carving forensics framework
+https://github.com/ruzzle/Chaosreader - network snarfer catches plaintext traffic and dumps it in original format
+http://forensicswiki.org/wiki/Main_Page - forensics wiki
