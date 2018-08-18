@@ -1,5 +1,6 @@
 https://pywb.readthedocs.io/en/latest/manual/configuring.html#https-proxy - using PyWB as a proxy to record and archive browsing sessions
 https://archivesunleashed.org/warclight/ - front end for displaying metadata and indexing WARC archives.
+https://github.com/s0md3v/Photon - python-based multithreaded multihomed irreverent web crawler, archiver, and enumerator
 
 https://github.com/spwhitton/oso2pdf - converts Oxford Scholarship Online books to PDF.
 https://github.com/x-hgg-x/video_decrypter - Widevine decryption project, very alpha
@@ -13,3 +14,4 @@ https://catalog.gpo.gov/F - Catalog of Government Publications
 https://www.treasury.gov/FOIA/Pages/reading_room.aspx - Dept of the Treasury FOIA reading room
 
 https://rclone.org/ - backup web stuff to filesystem and back
+https://www.sec.gov/edgar/searchedgar/webusers.htm - EDGAR (SEC filings) search interface

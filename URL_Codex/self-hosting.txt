@@ -37,4 +37,8 @@ https://github.com/14mRh4X0r/matrix-synapse-pam
 https://github.com/turt2live/terraform-provider-matrix
 https://www.iredmail.org/
 
+<<<<<<< HEAD
 https://github.com/sivel/overseer - like pingdom, but with no UI.
+=======
+https://github.com/colental/byob - build-your-own-botnet
+>>>>>>> ba82e7cb8ff467a10d17a91817ddba16e77f4296
