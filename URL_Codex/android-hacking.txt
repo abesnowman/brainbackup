@@ -6,3 +6,8 @@ http://www.abclinuxu.cz/blog/Lorris/2013/12/serial-console-on-google-nexus-5
 https://alephsecurity.com/2017/03/08/nexus9-fiq-debugger/
 http://www.pabr.org/consolejack/consolejack.en.html
 https://greatscottgadgets.com/infiltrate2013/ossmann-osborn-bhusa2013-whitepaper.txt
+
+Detection/Prevention:
+
+https://attestation.app/
+https://github.com/AndroidHardening/AttestationServer
