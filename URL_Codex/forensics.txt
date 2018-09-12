@@ -8,3 +8,5 @@ https://github.com/volatilityfoundation - memory forensics framework
 https://github.com/pibara/mfmf - python-based file carving forensics framework
 https://github.com/ruzzle/Chaosreader - network snarfer catches plaintext traffic and dumps it in original format
 http://forensicswiki.org/wiki/Main_Page - forensics wiki
+http://www.rekall-forensic.com/ - Rekall 
+https://link.springer.com/content/pdf/10.1186%2Fs13635-016-0041-4.pdf

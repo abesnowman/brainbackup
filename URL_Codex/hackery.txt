@@ -30,3 +30,5 @@ http://www.openecu.org/index.php?title=EcuFlash - EcuFlash is open-source softwa
 https://github.com/jeremyhahn/ecutools - more open source car hacking stuff
 
 https://homofaciens.de/technics-machines-cnc-v3-2_en.htm - open source CNC machine from common parts
+http://ciar.org/ttk/codecloset/select/ - takes input and lets you filter, or SELECT, what to output
+http://www.unlockforum.com/forumdisplay.php/riff-jtag-emmc-support-258p2.html - RiffBox forums

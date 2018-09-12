@@ -1,3 +1,4 @@
 https://github.com/svbl/picomrade
 https://github.com/mame82/P4wnP1
 https://wiki.voidlinux.eu/Raspberry_Pi
+https://smarticase.com/products/smartipi-touch

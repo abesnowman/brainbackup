@@ -1,0 +1,6 @@
+https://www.linaro.org/ - Linaro
+http://arago-project.org/wiki/index.php/Main_Page - Arago 
+https://www.openembedded.org/wiki/Main_Page - OpenEmbedded
+https://www.yoctoproject.org/ - Yocto project
+https://tools.androidtamer.com/ - Android Tamer
+https://pentoo.ch/ - Pentoo

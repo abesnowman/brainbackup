@@ -36,9 +36,12 @@ https://github.com/kamax-io/mxisd
 https://github.com/14mRh4X0r/matrix-synapse-pam
 https://github.com/turt2live/terraform-provider-matrix
 https://www.iredmail.org/
-
-<<<<<<< HEAD
 https://github.com/sivel/overseer - like pingdom, but with no UI.
-=======
-https://github.com/colental/byob - build-your-own-botnet
->>>>>>> ba82e7cb8ff467a10d17a91817ddba16e77f4296
+https://github.com/gopasspw/gopass - password manager for teams
+https://github.com/cdwertmann/plugin.audio.rainymood.com - rainymood sound streaming
+https://github.com/glutanimate/MoodyRain - more white noise, linux app 
+https://github.com/Muges/ambientsounds - yet again more white noise
+https://github.com/jamb0ss/awesome-ambient-noises
+https://github.com/iambibhas/background-noise 
+https://gist.github.com/emptymalei/8448012 
+https://github.com/cdwertmann/Lychee - photo sharing
