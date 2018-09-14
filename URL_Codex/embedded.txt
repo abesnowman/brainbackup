@@ -13,3 +13,6 @@ https://github.com/brandonlw/bloxy/tree/master/Bloxy - Bluetooth TCP/IP routing 
 https://github.com/brandonlw/vicar
 https://github.com/brandonlw/USBSimulator
 
+https://forum.xda-developers.com/showthread.php?t=2160490 - MTKDroid thread on XDA
+https://www.dr-lex.be/hardware/china_phone_flashing.html
+
