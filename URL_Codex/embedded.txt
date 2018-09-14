@@ -1,0 +1,15 @@
+https://github.com/cyphunk/JTAGenum - scans pins to determine JTAG lines and functions
+https://github.com/FICS/atcmd/tree/master/extract - scans Android device firmware for AT command functionality
+https://github.com/ucsb-seclab/BootStomp
+https://corte.si/
+
+https://github.com/ustwo/mastermind
+https://github.com/smeso/MTPwn
+https://googleprojectzero.blogspot.com/2018/09/oatmeal-on-universal-cereal-bus.html
+https://www.bleepingcomputer.com/news/security/tens-of-thousands-of-android-devices-are-exposing-their-debug-port/
+https://www.bleepingcomputer.com/news/security/vulnerabilities-found-in-the-firmware-of-25-android-smartphone-models/
+https://github.com/brandonlw/Psychson
+https://github.com/brandonlw/bloxy/tree/master/Bloxy - Bluetooth TCP/IP routing proxy - possibly can be used as malicious BT device emulator
+https://github.com/brandonlw/vicar
+https://github.com/brandonlw/USBSimulator
+
