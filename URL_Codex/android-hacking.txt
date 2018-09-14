@@ -11,3 +11,9 @@ Detection/Prevention:
 
 https://attestation.app/
 https://github.com/AndroidHardening/AttestationServer
+
+Android VM on linux:
+
+https://github.com/shashlik
+https://github.com/anbox/anbox
+
