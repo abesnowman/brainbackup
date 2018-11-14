@@ -15,3 +15,4 @@ https://www.treasury.gov/FOIA/Pages/reading_room.aspx - Dept of the Treasury FOI
 
 https://rclone.org/ - backup web stuff to filesystem and back
 https://www.sec.gov/edgar/searchedgar/webusers.htm - EDGAR (SEC filings) search interface
+http://www.worldcat.org/ - index of library resources, media info

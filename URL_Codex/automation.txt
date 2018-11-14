@@ -27,3 +27,7 @@ https://brainsteam.co.uk/2015/11/28/watson-home-automation/ - using Watson as Ja
 
 https://github.com/kovidgoyal/mechanize - automate interaction with HTTP services
 https://github.com/kovidgoyal/html5-parser - fast python-based HTML5 parser
+
+https://github.com/cortesi/modd - filesystem watchdog
+https://corte.si/posts/devd/intro/index.html - Devd, "small, self-contained, command-line-only HTTP server for developers"
+

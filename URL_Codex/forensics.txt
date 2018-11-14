@@ -10,3 +10,4 @@ https://github.com/ruzzle/Chaosreader - network snarfer catches plaintext traffi
 http://forensicswiki.org/wiki/Main_Page - forensics wiki
 http://www.rekall-forensic.com/ - Rekall 
 https://link.springer.com/content/pdf/10.1186%2Fs13635-016-0041-4.pdf
+https://blog.k3170makan.com/2018/09/introduction-to-elf-format-elf-header.html
