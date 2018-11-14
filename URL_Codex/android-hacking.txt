@@ -1,4 +1,5 @@
 Vectors:
+http://blog.includesecurity.com/2015/11/NordicSemi-ARM-SoC-Firmware-dumping-technique.html
 
 Headphone jack:
 https://www.optiv.com/blog/building-a-nexus-4-uart-debug-cable
