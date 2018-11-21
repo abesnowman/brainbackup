@@ -2,3 +2,5 @@ https://www.propublica.org/datastore/dataset/trump-administration-white-house-co
 http://hisz.rsoe.hu/alertmap/database/?pageid=about_rss
 https://www.magnetforensics.com/free-digital-forensics-software-tools/
 
+https://www.unix-ninja.com/p/attacking_google_authenticator
+
