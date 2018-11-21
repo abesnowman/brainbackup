@@ -13,4 +13,8 @@ $259 - SparkMaker SLA 3D Printer - https://www.indiegogo.com/products/sparkmaker
 $299 - Raven - car computer with dashcam, GPS, etc. https://www.indiegogo.com/products/raven-your-car-s-smartest-upgrade
 https://www.vibe-tribe-shop.com/products/vibe-tribe-mamba-18watt-bluetooth-vibration-speaker-nfc-daisy-chain-conf-call?variant=990275593
 $499 - Structure 3D scanner - https://store.structure.io/buy/structure-sensor
+https://mausberry-circuits.myshopify.com/collections/accessories-1/products/12v-to-5v-car-led-dc-converter-3amps
+http://www.openscad.org/
+https://www.justboom.co/product/justboom-dac-hat/
+https://uk.pi-supply.com/collections/pi-supply-range
 
