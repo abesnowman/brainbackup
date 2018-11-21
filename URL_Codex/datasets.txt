@@ -1,2 +1,4 @@
 https://www.propublica.org/datastore/dataset/trump-administration-white-house-complex-visitor-records
+http://hisz.rsoe.hu/alertmap/database/?pageid=about_rss
+https://www.magnetforensics.com/free-digital-forensics-software-tools/
 
