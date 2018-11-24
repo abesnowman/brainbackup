@@ -5,3 +5,5 @@ https://www.fasttech.com/products/0/10002357/5641200-authentic-samsung-inr18650-
 http://www.diybatteries.com/category/instructions/ - making battery packs from 18650 cells
 https://hackaday.io/project/21144-a-lithium-ion-battery-management-system - open source charge controllers
 https://hackaday.io/project/12296/logs - "Powerbucket" battery for solar power balancing
+
+http://en.calb.cn/product/show/?id-634 <- cheap LiPo4Fe supplier from China, with LA distributor. Everything up to 400KW connex boxes.
