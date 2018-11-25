@@ -4,3 +4,57 @@ https://www.magnetforensics.com/free-digital-forensics-software-tools/
 
 https://www.unix-ninja.com/p/attacking_google_authenticator
 
+https://dataverse.harvard.edu/
+https://data.occrp.org
+https://www.sec.gov/edgar/searchedgar/webusers.htm
+https://www.exploit-db.com/google-hacking-database/
+https://app.binaryedge.io/services/images
+https://canarytokens.org/generate
+https://github.com/IBM/MAX-Facial-Recognizer
+https://github.com/IBM/drones-iot-visual-recognition
+https://github.com/laramies/metagoofil
+https://github.com/ElevenPaths/FOCA
+https://github.com/alephdata/aleph
+https://github.com/IBM/mi-prometheus
+https://github.com/Oros42/IMSI-catcher/blob/master/README.md
+https://github.com/ryancdotorg/dkimscan
+https://app.datafire.io/projects/raven2research/integrations/available
+https://github.com/cantino/twitter_to_csv
+https://pastebin.com/doc_scraping_api
+https://pastebin.com/api
+https://github.com/CIRCL/intelmq
+https://github.com/CIRCL/lookyloo
+https://opencorporates.com/users/account
+https://iknowwhatyoudownload.com/en/link/
+https://sf-9608ddf5.hx.spiderfoot.net/auth
+https://app.binaryedge.io/services/images?query=has_faces:%22true%22&page=1
+https://www.abuseipdb.com/account/contributor
+https://github.com/OWASP/Amass
+https://github.com/mazen160/bfac
+https://github.com/GerbenJavado/LinkFinder
+https://digi.ninja/projects/bucket_finder.php
+https://github.com/motherboardgithub/mass_archive
+
+https://docs.ipfs.io/introduction/install/
+https://wiki.duraspace.org/display/DSDOC6x/
+
+Global map data and service: http://download.gisgraphy.com/
+
+API dataset - https://apis.guru/openapi-directory/
+Charity Org API -    http://charityapi.orghunter.com/
+    App name
+        Raven2 Research's App
+    Key
+        18e109ff9b17eb4cc57706b6d23820ef
+        Add this as a user_key parameter to your API calls to authenticate.
+
+https://www.dataone.org/
+https://www.biocatalogue.org/services?cat=%5B22%5D
+https://www.esciencelab.org.uk/
+https://taverna.incubator.apache.org/
+https://openmodelica.org/download/download-windows
+https://octave.sourceforge.io/packages.php
+https://www.gnu.org/software/octave/
+http://coolprop.sourceforge.net/
+
+https://browshot.com/dashboard#browsers
