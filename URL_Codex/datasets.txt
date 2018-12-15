@@ -37,6 +37,8 @@ https://github.com/motherboardgithub/mass_archive
 
 https://docs.ipfs.io/introduction/install/
 https://wiki.duraspace.org/display/DSDOC6x/
+https://data.world/
+http://d-portal.org/ctrack.html#view=search
 
 Global map data and service: http://download.gisgraphy.com/
 
@@ -58,3 +60,5 @@ https://www.gnu.org/software/octave/
 http://coolprop.sourceforge.net/
 
 https://browshot.com/dashboard#browsers
+
+https://github.com/maestron/botnets
