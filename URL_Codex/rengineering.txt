@@ -1,0 +1,5 @@
+http://diaphora.re/
+https://github.com/tintinweb/unbox
+https://github.com/dsasmblr/game-hacking
+https://github.com/yellowbyte/reverse-engineering-reference-manual
+
