@@ -64,4 +64,12 @@ https://browshot.com/dashboard#browsers
 https://github.com/maestron/botnets
 https://github.com/gephi/gephi/wiki/Datasets
 https://github.com/alfredfrancis/awesome-public-datasets
+https://commoncrawl.org/
+https://developer.ibm.com/exchanges/models/
+https://datahub.io/core
+https://www.pgc.umn.edu/data/rema/
+https://www.sdss.org/
+ftp://ftp.ncdc.noaa.gov/pub/data/noaa/
+https://services.arcgis.com/8df8p0NlLFEShl0r/ArcGIS/rest/services
+http://ourairports.com/data/
 
