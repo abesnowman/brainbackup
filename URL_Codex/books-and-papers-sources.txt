@@ -1,0 +1,24 @@
+Unconfirmed:
+https://diy-tornado4ss.rhcloud.com
+https://diy2-elasa2.rhcloud.com
+https://diy-phantomjs4so.rhcloud.com
+https://test-python-ieee3ss5.herokuapp.com
+
+Confirmed good but limited (DRM or other means restrict access):
+O'Reilly's Safari Online - https://learning.oreilly.com
+Amazon Kindle Unlimited - https://www.amazon.com/Browse-Kindle-Unlimited-Books/b?ie=UTF8&node=9069934011
+IEEE Xplore - https://ieeexplore.ieee.org
+American Mathematical Society - http://www.ams.org/journals
+
+Confirmed good:
+https://libgen.io
+https://b-ok.cc
+OpenDOAR - http://v2.sherpa.ac.uk/opendoar/
+Cornell University's arXiv - https://arxiv.org/
+Univ of Southampton Cogprints (no new materal being added) - http://cogprints.org
+Directory of Open Access Journals (with API) - https://doaj.org/
+Packt publishing free daily ebook (refreshes at 6pm central) - https://www.packtpub.com/packt/offers/free-learning
+National Academies of Science and Medicine - https://www.nap.edu/
+O'Reilly's Open Books - https://www.oreilly.com/openbook/
+Free Medical Journals - http://www.freemedicaljournals.com/
+
