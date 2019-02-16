@@ -63,3 +63,5 @@ https://browshot.com/dashboard#browsers
 
 https://github.com/maestron/botnets
 https://github.com/gephi/gephi/wiki/Datasets
+https://github.com/alfredfrancis/awesome-public-datasets
+
